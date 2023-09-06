@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnEntityFramework", "src\LearnEntityFramework.csproj", "{8E6F3793-FD96-4C22-909E-46C60944D2AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetStartedWithEF", "src\GetStartedWithEF.csproj", "{8E6F3793-FD96-4C22-909E-46C60944D2AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
